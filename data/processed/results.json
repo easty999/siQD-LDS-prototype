@@ -1,0 +1,20 @@
+{
+  "historical_extraterrestrial": {
+    "baseline_mA_cm2": 42.65642659836724,
+    "lds_mA_cm2": 40.697657626907635,
+    "delta_mA_cm2": -1.9587689714596053,
+    "loss_mA_cm2": 3.731059811872045,
+    "emission_coefficient_mA_cm2": 4.219740096220095,
+    "break_even_qy_times_capture": 0.8841918522930372,
+    "irradiance_W_m2": 1347.9343199999998
+  },
+  "corrected_global_tilt": {
+    "baseline_mA_cm2": 35.47276602376501,
+    "lds_mA_cm2": 34.085920981941676,
+    "delta_mA_cm2": -1.3868450418233351,
+    "loss_mA_cm2": 2.6110057203119514,
+    "emission_coefficient_mA_cm2": 2.9146682821157546,
+    "break_even_qy_times_capture": 0.895815738735327,
+    "irradiance_W_m2": 1000.3706555734423
+  }
+}

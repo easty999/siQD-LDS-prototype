@@ -1,0 +1,3 @@
+`reference_spectra.csv` is a numeric extraction of all four columns from the supplied `am1.5spectra.xls`, first worksheet, data starting at excel row 3. headers were renamed with explicit units; numeric values were not rescaled. sha256 of the source is in `docs/source_manifest.json`. column c of the original is global tilt. source: astm g173-03 derived from smarts v2.9.2, distributed by nrel/nlr. see https://www.nlr.gov/grid/solar-resource/spectra-am1.5 and its data disclaimer before public redistribution.
+
+`results.json` and `sweep.csv` are simulated outputs from `analysis/model.py`. they are not experimental measurements. the sweep uses qy 0.2–0.9 and capture 0.3–0.9, distinct from the narrower paper range described in the audit.
