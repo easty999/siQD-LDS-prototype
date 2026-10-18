@@ -1,0 +1,13 @@
+{
+  "model_tests": "5 passed again after the writing changes",
+  "model_delta_mA_cm2": -1.3868450418233351,
+  "cad_meshes": "3 passed closed-edge, winding and volume checks",
+  "markdown_links": "all relative links exist",
+  "writing": "13 markdown files restyled; commands, units and filenames retain their required case",
+  "visuals": "3 cad views and 2 explanatory cards, 1920 x 1080",
+  "video": "144 frames at 24 fps; 6 seconds; 1920 x 1080; no audio; visible unbuilt-design label",
+  "blender": "3 editable scenes with relative output and media paths",
+  "physical_validation": "not performed",
+  "publication": "not pushed to github",
+  "layers_animation": "8 seconds, 1920 x 1080, 24 fps; assembled, intermediate and separated frames visually checked"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "Si_QD_LDS_Methodology.pdf",
+    "bytes": 4859,
+    "sha256": "06b796d3494188230eeb266d7a55a0a665405f4483043a8a3ad4c8757975e6db"
+  },
+  {
+    "file": "si-qd-lds-flowchart.svg",
+    "bytes": 6373,
+    "sha256": "cd8bf4a4215ccda52662942a8cd85a46c399d8f50922f1dcd03d188df877aab8"
+  },
+  {
+    "file": "simulationNotebook.ipynb",
+    "bytes": 285953,
+    "sha256": "1aad983bc9fe6a71c19c3f31814c00b7d6f1631c09f82d7bb4e74b8c6cf3f364"
+  },
+  {
+    "file": "am1.5spectra.xls",
+    "bytes": 415232,
+    "sha256": "68170c900fd8393d0f78bcc770ff329fdabd400dcc953b1574aaa92fbd6de4ed"
+  },
+  {
+    "file": "final paper draft.pdf",
+    "bytes": 294061,
+    "sha256": "cf4f85512ee12b01ff08551c77c144977e0f6535753df3b6ad59a2dd333e8e7e"
+  },
+  {
+    "file": "iris graphs.pdf",
+    "bytes": 155256,
+    "sha256": "439a747328adc388c0eda966d8426a5dea98cd4981a1b4ffa6a39933bbf5d178"
+  },
+  {
+    "file": "middle panel pdf.pdf",
+    "bytes": 230110,
+    "sha256": "c932067e52f70f3354af5a0f00b97fefd6d67bc90926a50ec4b278e13330f2fd"
+  },
+  {
+    "file": "right panel pdf.pdf",
+    "bytes": 117874,
+    "sha256": "83c7595d69bb99acd6e2bbc291ee108ddaa00b071b48baaed13f27bb19f4d4a9"
+  },
+  {
+    "file": "qd animation.py",
+    "bytes": 2473,
+    "sha256": "643e1634f3f6fb434f212e623c9e46107b8861da6b3117560669d9d579188392"
+  }
+]
