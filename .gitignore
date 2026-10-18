@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/README.md
+media/footage/
+*.mp4
+*.mov
+!media/renders/*.mp4
+*.blend1
