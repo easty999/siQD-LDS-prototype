@@ -1,0 +1,10 @@
+{
+  "duration_seconds": 8,
+  "fps": 24,
+  "frames": 192,
+  "width": 1920,
+  "height": 1080,
+  "audio": false,
+  "motion": "assembled hold 1.5s; ease apart 4s; separated hold 2.5s",
+  "status": "unbuilt design; glass and cell are illustrative"
+}
