@@ -1,0 +1,1 @@
+sample_id,condition,batch_id,wavelength_nm,transmittance_fraction,reflectance_fraction,PL_raw_counts,excitation_wavelength_nm,integration_time_ms,instrument_id,background_file,correction_file

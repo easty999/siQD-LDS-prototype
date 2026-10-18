@@ -1,0 +1,1 @@
+timestamp_iso,sample_id,condition,batch_id,cell_id,block_id,seating_id,scan_id,voltage_V,current_mA,reference_current_mA,cell_temperature_C,reference_temperature_C,irradiance_W_m2,aperture_area_cm2,source_id,accepted,rejection_reason
