@@ -53,4 +53,4 @@ the five model tests passed. the exported meshes also passed the edge, winding, 
 
 the next step is getting a lab and a characterized si-qd material, then making and measuring the films. a negative result is still worth documenting.
 
-[the publishing notes](docs/publishing.md) cover what needs checking before a public release. the prose and narration were drafted with ai help and edited toward my requested style; they aren't records of work i haven't done.
+[the publishing notes](docs/publishing.md) cover what needs checking before a public release.
